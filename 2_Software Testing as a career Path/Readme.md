@@ -5,8 +5,7 @@ public class Larik1
     //Deklarasi array
     String[] mahasiswa = {"Rini","Aldi","Acep","Putra"};
 
-    //Menampilkan isi array pada indeks ke-2
-    System.out.println(mahasiswa[2]);
+
          
     }
  }
