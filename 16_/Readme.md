@@ -5,4 +5,5 @@ String[] nama;
 String nama[];
 
 // cara ketiga dengan kata kunci new
-String[] nama = new String[5];
+String[] nama = new String[6];
+
